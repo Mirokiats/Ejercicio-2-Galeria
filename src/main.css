@@ -1,5 +1,16 @@
 .facebook{
-    width: "50";
-    height: "50";
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    flex-direction: end;
+}
+.instagram{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+.x{
+    width: 25px;
+    height: 25px;
     border-radius: 50%;
 }
