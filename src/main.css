@@ -2,13 +2,14 @@
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    flex-direction: end;
 }
-.instagram{
+
+.instargam{
     width: 25px;
     height: 25px;
     border-radius: 50%;
 }
+
 .x{
     width: 25px;
     height: 25px;
